@@ -1,0 +1,43 @@
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color:gold;
+    
+    }
+#fountain{
+    width:50px;
+}
+
+.row{   
+
+    background-color:gold;
+    color:gray;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+}
+.headshot{
+    width:20%; 
+   
+}
+.mid{
+    background-color:white;
+    color:gold;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display:flex;
+    justify-content:space-around;
+}
+.aboutme{
+    border:1px solid black; 
+    text-align: center;
+}
+
+#bottom{
+    padding-top:50px;
+    
+    
+}
+    
+}
